@@ -1,0 +1,13 @@
+bfhl:
+  user:
+    name: "Maddali Venkata Anusree Gayathri"
+    regNo: "22BCE0198"
+    email: "mv.anusree02@gmail.com"
+  endpoints:
+    generate: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+    submit:   "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+  storage:
+    finalQueryFile: "final_query.sql"
+logging:
+  level:
+    root: INFO
